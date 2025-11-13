@@ -1,4 +1,4 @@
-# Replication-and-Evaluation-of-Tabular-Data-Augment
+# Replication and Evaluation of Tabular Data Augmentation Techniques for Liver Disease Diagnosis Using ILPD Dataset
 ### **Project Overview**
 
 This notebook aims to replicate key parts of the paper: “Tabular Data Generation to Improve Classification of Liver Disease Diagnosis” by _Mohammad Alauthman et al._
