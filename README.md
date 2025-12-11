@@ -164,7 +164,7 @@ The inclusion of MCC and the use of CTGAN highlight methodological challenges no
 
 ---
 
-# **12. References**
+## **12. References**
 
 **Original Study**: [Alauthman, M., et al. *Tabular Data Generation to Improve Classification of Liver Disease Diagnosis.* Applied Sciences, 13(4), 2678 (2023). https://doi.org/10.3390/app13042678](https://www.mdpi.com/2076-3417/13/4/2678)
 
